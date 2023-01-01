@@ -2,7 +2,6 @@
 date = 2023-01-01T13:17:41Z
 description = "Lorem ipsum dolor sit amet"
 disable_share = false
-draft = true
 featured_image = "/public/ndi-limitimer-2.png"
 tags = ["scene"]
 title = "NDI Limitimer v2"
