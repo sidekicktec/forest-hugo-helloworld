@@ -7,7 +7,7 @@ featured_image: ''
 menu:
   main:
     name: Sobre
-    weight: 3
+    weight: 1
 
 ---
 {{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
