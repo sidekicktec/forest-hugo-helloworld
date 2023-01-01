@@ -22,10 +22,10 @@ sections:
   label: About
   create: all
   match: "**/*"
-upload_dir: static/images
-public_path: "/public"
+upload_dir: forestry-assets
+public_path: public
 front_matter_path: ''
-use_front_matter_path: false
+use_front_matter_path: 
 file_template: ":filename:"
 build:
   preview_env:
