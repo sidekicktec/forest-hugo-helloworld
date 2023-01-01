@@ -25,3 +25,4 @@ fields:
   label: disable_share
 pages:
 - content/post/chapter-6.md
+- content/post/ndi-limitimer-v2.md
